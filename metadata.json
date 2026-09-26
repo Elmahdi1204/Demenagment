@@ -1,0 +1,6 @@
+{
+  "name": "TransMoov - Gestion & Suivi de Déménagement",
+  "description": "Plateforme professionnelle de gestion des déménagements : formules, devis en ligne, dashboard gestionnaire, espace chauffeur et suivi en temps réel avec notifications email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
